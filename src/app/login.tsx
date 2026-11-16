@@ -28,9 +28,9 @@ export default function Login() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>CATUC Student Portal</Text>
+      <Text style={styles.title}>NAHPI Student Portal</Text>
 
-      <Text style={styles.subtitle}>Catholic University of Cameroon</Text>
+      <Text style={styles.subtitle}>University of Bamenda</Text>
 
       <TextInput
         style={styles.input}
